@@ -5,6 +5,10 @@ mapping. It allows people to collect and share their own stories using various m
 as SMS, Web Forms, Email or Twitter. For more information about the platform and use cases (case studies) visit: http://www.ushahidi.com
 
 
+
+
+
+
 System Requirements
 -------------------
 To install the platform on your computer/server, the target system must meet the following requirements:
